@@ -8,6 +8,3 @@ class Person
   end
 end
 
-alan = Person.new
-alan.talk
-alan.walk
